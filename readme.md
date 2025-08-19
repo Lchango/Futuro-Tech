@@ -202,14 +202,14 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autores
 
-- **Patrick Molina** - *Desarrollo inicial* - [@AlenSaavedra](https://github.com/AlenSaavedra)
+- **Luis Chango** - *Desarrollo inicial* - [@Lchango](https://github.com/Lchango)
 
 
 
 ## 📞 Soporte
 
 Para soporte técnico:
-- **Email:** saavedracodehub@gmail.com
+- **Email:** lachango@est.teclemas.edu.ec
 
 ---
 
